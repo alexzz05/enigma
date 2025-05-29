@@ -25,7 +25,7 @@ void gestionarArchivoRotor(const string& path) {
                 cerr << "[ERROR] No se ha podido crear el archivo \"" << path << "\".\n";
                 return;
             }
-            cout << "Introducir la permutaciÃ³n(26 chars): ";
+            cout << "Introducir la permutacion(26 chars): ";
             string permutacion; cin >> permutacion;
             // Contenido predeterminado para un rotor (ejemplo)
             nuevoArchivo << permutacion << endl;
