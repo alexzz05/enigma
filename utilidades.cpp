@@ -14,7 +14,7 @@ bool esTodoMayusculas(const string& s) {
                 [](char c) { return c >= 'A' && c <= 'Z'; });
 }
 
-/*  Detecta: longitud≠26, char inválido o duplicados.
+/*  Detecta: longitud≠26, char invalido o duplicados.
     Devuelve false y deja un mensaje en 'motivo'.              */
 bool esPermutacionValida(const string& p, string& motivo) {
   if (p.size() != letrasAbecedario) {
