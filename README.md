@@ -32,16 +32,28 @@ Cuando lo ejecutas, veras un menu con 4 opciones:
 ## Estructura del proyecto
 
 ├── main.cpp // Control del menu
+
 ├── main.hh
+
 ├── cifrar_descifrar.cpp // Codigo que hace el cifrado y descifrado
+
 ├── cifrar_descifrar.hh
+
 ├── in_out.cpp // Lectura y modificacion de los rotores
+
 ├── in_out.hh
+
 ├── utilidades.cpp // Funciones auxiliares
+
 ├── utilidades.hh
+
 ├── Rotor1.txt // Configuracion de cada rotor
+
 ├── Rotor2.txt
+
 ├── Rotor3.txt
+
 ├── xifrat.txt // Texto cifrado
+
 ├── desxifrat.txt // Texto claro
 
