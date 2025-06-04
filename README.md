@@ -20,7 +20,7 @@ Cuando lo ejecutas, veras un menu con 4 opciones:
 
 - Tienes que usar los mismos rotores y la misma posicion inicial que al cifrar.
 - El texto cifrado se lee (a mano o desde `xifrat.txt`).
-- El programa invierte el proceso del cifrado, usando el cableado al reves.
+- El programa invierte el proceso del cifrado, usando el mismo algoritmo.
 - La salida se guarda en `desxifrat.txt`.
 
 ### Editar rotores
