@@ -14,7 +14,7 @@ Cuando lo ejecutas, veras un menu con 4 opciones:
 - Puedes escribir el mensaje a mano o leerlo desde `desxifrat.txt`.
 - El texto se limpia (se ponen mayusculas, se quitan espacios, signos, etc.).
 - Se pasa por 3 rotores que transforman las letras segun su posicion.
-- El resultado se guarda en `xifrat.txt`, agrupado en bloques de 5 letras (rollo militar).
+- El resultado se guarda en `xifrat.txt`, agrupado en bloques de 5 letras.
 
 ### Descifrar mensaje
 
